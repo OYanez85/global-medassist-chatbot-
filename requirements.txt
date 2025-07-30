@@ -1,0 +1,8 @@
+gradio==3.42.1
+pydub==0.25.1
+gTTS==2.3.0
+google-cloud-texttospeech==2.24.0
+langgraph==0.1.5
+langchain==0.0.350
+faiss-cpu==1.7.4
+reportlab==3.8.0
