@@ -4,5 +4,8 @@ gTTS==2.3.0
 google-cloud-texttospeech==2.24.0
 langgraph==0.1.5
 langchain==0.0.350
+langchain-openai==0.0.13      # for “from langchain_openai import ChatOpenAI, OpenAIEmbeddings”
+openai>=0.27.0                # peer dependency of langchain-openai
 faiss-cpu==1.7.4
 reportlab==3.8.0
+
